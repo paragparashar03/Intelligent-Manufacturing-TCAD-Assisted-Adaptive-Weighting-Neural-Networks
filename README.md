@@ -1,5 +1,5 @@
 # Intelligent-Manufacturing-TCAD-Assisted-Adaptive-Weighting-Neural-Networks
-# We propose a supervised learning model called an adaptive weighting neural network (AWNN) that combines the advantages of statistical the machine learning model and the physical TCAD model ( Aspect-ratio dependent etching (ARDE) Etching model).
+# We propose a supervised learning model called an adaptive weighting neural network (AWNN) that combines the advantages of statistical the machine learning model and the physical TCAD model ( Aspect-ratio dependent etching (ARDE) model).
 
 
 # Check the link for the published work: https://ieeexplore.ieee.org/document/8558525
