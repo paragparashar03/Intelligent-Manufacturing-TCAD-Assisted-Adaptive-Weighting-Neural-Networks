@@ -9,8 +9,7 @@ depth, and the parameters used to predict the etching depth
 are the trench width and the etching time. Apart from
 TCAD, we conduct the experiment for deep reactive ion
 etching (DRIE) BOSCH etching process to acquire the experiment
-data. The etching patterns in the experiment are set the
-TABLE 1. Pattern parameters are designed for diverse aspect ratio (AR).
+data. Pattern parameters are designed for diverse aspect ratio (AR).
 same as in the simulation, and therefore, the input feature values
 are the same for TCAD calculations and physical experiments.
 The etching process steps consist of pattern exposure,
@@ -23,5 +22,5 @@ data.
 
 
 
-# DATASET:  Two excel files have been provided in zip folder
+# DATASET:  Two excel files have been provided along with the ipynb file
 
